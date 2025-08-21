@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Education</title>
+    <link rel="stylesheet" href="/Css/primaria.css">
+</head>
+<body background="/Imagen/Fondo de prepri.jpg"></body>
+  <div class="header">
+    <header>
+    <h1 class="titulo">Centro educativo</h1>
+    </header>
+  </div>
+<nav>
+  <a href="/Index.html">Inicio</a>
+  <a href="/Index.html">Menú</a>
+  <a href="/Index.html">Contacto</a>
+</nav>
+<article>
+<div class="cursos">
+  <div class="imagen"><img src="/Imagen/prim (1).jpg" alt="" class="img1"><div class="texto"><a href=""></a></div>
+  </div>
+  <div class="imagen"><img src="/Imagen/prim (2).jpg" alt="" class="img1">  <div class="texto"></a></div>
+  </div>
+  <div class="imagen"><img src="/Imagen/prim (3).jpg" alt="" class="img1">  <div class="texto"></a></div>
+</div>
+  <div class="imagen"><img src="/Imagen/prim (4).jpg" alt="" class="img1">  <div class="texto"></a></div>
+</div>
+  <div class="imagen"><img src="/Imagen/prim (5).jpg" alt="" class="img1">  <div class="texto"></a></div>
+</div>
+  <div class="imagen"><img src="/Imagen/prim (6).jpg" alt="" class="img1">  <div class="texto"></a></div>
+</div>
+
+</div>
+</article>
+<footer>
+  <center>
+  <p>Elaborado por: Eduar Javier Hernandez Alvarez</p>
+</center>
+</footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Education</title>
+    <link rel="stylesheet" href="/Css/basicos.css">
+</head>
+<body background="/Imagen/Fondo de prepri.jpg"></body>
+  <div class="header">
+    <header>
+    <h1 class="titulo">Centro educativo</h1>
+    </header>
+  </div>
+<nav>
+  <a href="/Index.html">Inicio</a>
+  <a href="/Index.html">Menú</a>
+  <a href="/Index.html">Contacto</a>
+</nav>
+<article>
+<div class="cursos">
+  <div class="imagen"><img src="/Imagen/basic (1).jpg" alt="" class="img1"><div class="texto"><a href=""></a></div>
+  </div>
+  <div class="imagen"><img src="/Imagen/basic (2).jpg" alt="" class="img1">  <div class="texto"></a></div>
+  </div>
+  <div class="imagen"><img src="/Imagen/basic (3).jpg" alt="" class="img1">  <div class="texto"></a></div>
+</div>
+  <div class="imagen"><img src="/Imagen/basic (4).jpg" alt="" class="img1">  <div class="texto"></a></div>
+</div>
+  <div class="imagen"><img src="/Imagen/basic (5).jpg" alt="" class="img1">  <div class="texto"></a></div>
+</div>
+  <div class="imagen"><img src="/Imagen/basic (6).jpg" alt="" class="img1">  <div class="texto"></a></div>
+</div>
+
+</div>
+</article>
+<footer>
+  <center>
+  <p>Elaborado por: Eduar Javier Hernandez Alvarez</p>
+</center>
+</footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Education</title>
+    <link rel="stylesheet" href="/Css/diver.css">
+</head>
+<body background="/Imagen/Fondo de prepri.jpg"></body>
+  <div class="header">
+    <header>
+    <h1 class="titulo">Centro educativo</h1>
+    </header>
+  </div>
+<nav>
+  <a href="/Index.html">Inicio</a>
+  <a href="/Index.html">Menú</a>
+  <a href="/Index.html">Contacto</a>
+</nav>
+<article>
+<div class="cursos">
+  <div class="imagen"><img src="/Imagen/diver (1).jpg" alt="" class="img1"><div class="texto"><a href=""></a></div>
+  </div>
+  <div class="imagen"><img src="/Imagen/diver (2).jpg" alt="" class="img1">  <div class="texto"></a></div>
+  </div>
+  <div class="imagen"><img src="/Imagen/diver (3).jpg" alt="" class="img1">  <div class="texto"></a></div>
+</div>
+  <div class="imagen"><img src="/Imagen/diver (4).jpg" alt="" class="img1">  <div class="texto"></a></div>
+</div>
+  <div class="imagen"><img src="/Imagen/diver.jpg" alt="" class="img1">  <div class="texto"></a></div>
+</div>
+  <div class="imagen"><img src="/Imagen/mag.jpg" alt="" class="img1">  <div class="texto"></a></div>
+</div>
+
+</div>
+</article>
+<footer>
+  <center>
+  <p>Elaborado por: Eduar Javier Hernandez Alvarez</p>
+</center>
+</footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vida y Esperanza</title>
+    <link rel="stylesheet" href="/Css/estilo.css">
+</head>
+<body>
+    <header>
+        <h1>Vida y Esperanza</h1>
+        <h2>Conoce más sobre nuestros servicios y forma parte de nuestra familia</h2>
+    </header><br>
+    <div class="contenedor"> 
+    <div class="form">
+        <h1>Contáctanos</h1>
+        <form action="">
+            <label>Nombre</label><br><br>
+            <input type="text"><br><br>
+            <label>Teléfono</label><br><br>
+            <input type="text"><br><br>
+            <label>Correo</label><br><br>
+           <input type="email"><br><br>
+            <label>Seleccionar</label><br><br>
+            <select name="opcion"><br><br>
+                <option value="">Seleccionar</option>
+                <option>Pre-primaria</option>
+                <option>Primaria</option>
+                <option>Básicos</option>
+                <option>Diversificado</option>
+            </select><br><br>
+            <button type="submit">ENVIAR</button>
+        </form>
+    </div>
+    <div class="info">
+        <h2>+502 7756-0427</h2>
+        <br><h2>esc.vidayesperanza@gmail.com</h2>
+        <br><h2>4ta Calle 4-44 Z.1 Santa Lucia Milpas Altas, Guatemala, C.A.</h2>
+    </div><br>
+    <div class="ubi"><br><br>
+        <h1>Ubicación</h1><br><br>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3861.4154347990448!2d-90.67936072489432!3d14.575387985908!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85890bf80ffb400d%3A0xf7e365101a041a0!2sColegio%20Cristiano%20Vida%20y%20Esperanza!5e0!3m2!1ses-419!2sgt!4v1752431663819!5m2!1ses-419!2sgt" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    </div>
+    <div class="gal">
+        <div>
+        <a href="/preprimaria.html"><img src="/Imagen/Preprimaria.jpg" alt=""></a><h1>preprimaria</h1></a>
+        </div>
+        <div>
+        <a href="/Primaria.html"><img src="https://www.vidayesperanza.edu.gt/img/galerias/th/V.E._2_.jpg" alt=""></a><h1>Primaria</h1></a>
+       </div>
+       <div>
+        <a href="/Basicos.html"><img src="/Imagen/fon.jpg" alt=""></a><h1>Basicos</h1></a>
+       </div>
+       <div>
+        <a href="/Diversificado.html"><img src="/Imagen/diver (3).jpg" alt=""></a><h1>Diversificado</h1></a>
+         </div>
+    </div>
+
+    </div>
+    </body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Education</title>
+    <link rel="stylesheet" href="/Css/clses.css">
+</head>
+<body background="/Imagen/Fondo de prepri.jpg"></body>
+  <div class="header">
+    <header>
+    <h1 class="titulo">Centro educativo</h1>
+    </header>
+  </div>
+<nav>
+  <a href="/Index.html">Inicio</a>
+  <a href="/Index.html">Menú</a>
+  <a href="/Index.html">Contacto</a>
+</nav>
+<article>
+<div class="cursos">
+  <div class="imagen"><img src="/Imagen/2 (1).jpg" alt="" class="img1"><div class="texto"><a href=""></a></div>
+  </div>
+  <div class="imagen"><img src="/Imagen/2 (2).jpg" alt="" class="img1">  <div class="texto"></a></div>
+  </div>
+  <div class="imagen"><img src="/Imagen/2 (3).jpg" alt="" class="img1">  <div class="texto"></a></div>
+</div>
+  <div class="imagen"><img src="/Imagen/2 (4).jpg" alt="" class="img1">  <div class="texto"></a></div>
+</div>
+  <div class="imagen"><img src="/Imagen/2 (5).jpg" alt="" class="img1">  <div class="texto"></a></div>
+</div>
+  <div class="imagen"><img src="/Imagen/2 (6).jpg" alt="" class="img1">  <div class="texto"></a></div>
+</div>
+
+</div>
+</article>
+<footer>
+  <center>
+  <p>Elaborado por: Eduar Javier Hernandez Alvarez</p>
+</center>
+</footer>
+</body>
+</html>
